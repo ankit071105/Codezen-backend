@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CodeZen — Learn by drawing, not copying</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+
+<div id="app"></div>
+<div class="toast-wrap" id="toasts"></div>
+<div id="modalRoot"></div>
+
+<!-- Pyodide powers the client-side Python step debugger (no server, no LLM).
+     Loaded lazily on first Debug click so the app boots fast. -->
+<script src="app.js?v=2"></script>
+</body>
+</html>
