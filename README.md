@@ -1,6 +1,8 @@
 # CodeZen — Web
 
-Plain HTML/CSS/JS. No build step, no framework, no npm. Three files.
+Login Creditonals :-
+User name :- ankit@gmail.com
+Password :- Test1234!
 
 ## Run it
 
