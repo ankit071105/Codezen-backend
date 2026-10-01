@@ -1,9 +1,10 @@
 # CodeZen — Web
 
 Login Creditonals :-
+```
 User name :- ankit@gmail.com
 Password :- Test1234!
-
+```
 ## Run it
 
 The app must be served over `http://` (not opened as a `file://` path), otherwise the
